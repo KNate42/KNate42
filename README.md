@@ -1,21 +1,4 @@
-<a href="https://knate42.github.io/"><img src="assets/hero.svg" width="100%" alt="Nikita Anfinogentov. Data Science at the University of Arizona. Petropavlovsk, Kazakhstan. Open to internships."></a>
-
-<a href="https://github.com/KNate42/hush-browser"><img src="assets/hush.svg" width="100%" alt="hush-browser: a modified Firefox that finally eats less RAM. On 20 tabs, 820 MiB with idle ones unloaded and 3841 MiB without. Also hides tab switching and pasting from websites."></a>
-
-<a href="https://github.com/KNate42/schedule"><img src="assets/schedule.svg" width="100%" alt="schedule: builds a weekly schedule on your phone and exports it as a PNG."></a>
-
-<a href="https://github.com/KNate42/ModernSI"><img src="assets/modernsi.svg" width="100%" alt="ModernSI: an independent international student network where ideas become campus events."></a>
-
-<a href="https://knate42.github.io/"><img src="assets/cv.svg" width="100%" alt="KNate42.github.io: my CV, made to look like a macOS desktop. Sections open as windows."></a>
-
-<img src="assets/stack.svg" width="100%" alt="I mostly write Python, SQL and JavaScript, with FastAPI, PostgreSQL and React. Still learning NumPy, scikit-learn and data pipelines.">
-
-<img src="assets/organoid.svg" width="100%" alt="Away from code: a research report on growing brain organoids in a lab and using them as biological computers.">
-
-<a href="https://t.me/Ezekiel_XIII"><img src="assets/telegram.svg" width="49%" alt="Telegram: @Ezekiel_XIII"></a>
-<a href="mailto:anfinogentov@arizona.edu"><img src="assets/email.svg" width="49%" alt="Email: anfinogentov@arizona.edu"></a>
-<a href="https://www.linkedin.com/in/nikitaanfinogentov"><img src="assets/linkedin.svg" width="49%" alt="LinkedIn: nikitaanfinogentov"></a>
-<a href="https://anfinogentov.site/"><img src="assets/websites.svg" width="49%" alt="Websites for small businesses"></a>
+<a href="https://knate42.github.io/"><img align="top" src="assets/hero.svg" width="100%" alt="Nikita Anfinogentov. Data Science at the University of Arizona. Petropavlovsk, Kazakhstan. Open to internships."></a><a href="https://github.com/KNate42/hush-browser"><img align="top" src="assets/hush.svg" width="100%" alt="hush-browser: a modified Firefox that finally eats less RAM. On 20 tabs, 820 MiB with idle ones unloaded and 3841 MiB without. Also hides tab switching and pasting from websites."></a><a href="https://github.com/KNate42/schedule"><img align="top" src="assets/schedule.svg" width="100%" alt="schedule: builds a weekly schedule on your phone and exports it as a PNG."></a><a href="https://github.com/KNate42/ModernSI"><img align="top" src="assets/modernsi.svg" width="100%" alt="ModernSI: an independent international student network where ideas become campus events."></a><a href="https://knate42.github.io/"><img align="top" src="assets/cv.svg" width="100%" alt="KNate42.github.io: my CV, made to look like a macOS desktop. Sections open as windows."></a><img align="top" src="assets/stack.svg" width="100%" alt="I mostly write Python, SQL and JavaScript, with FastAPI, PostgreSQL and React. Still learning NumPy, scikit-learn and data pipelines."><img align="top" src="assets/organoid.svg" width="100%" alt="Away from code: a research report on growing brain organoids in a lab and using them as biological computers."><a href="https://t.me/Ezekiel_XIII"><img align="top" src="assets/telegram.svg" width="50%" alt="Telegram: @Ezekiel_XIII"></a><a href="mailto:anfinogentov@arizona.edu"><img align="top" src="assets/email.svg" width="50%" alt="Email: anfinogentov@arizona.edu"></a><a href="https://www.linkedin.com/in/nikitaanfinogentov"><img align="top" src="assets/linkedin.svg" width="50%" alt="LinkedIn: nikitaanfinogentov"></a><a href="https://anfinogentov.site/"><img align="top" src="assets/websites.svg" width="50%" alt="Websites for small businesses"></a>
 
 <details>
 <summary>По-русски</summary>
